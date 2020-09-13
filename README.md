@@ -1,2 +1,2 @@
 # single-page-auth0
-practive auth0
+practice auth0
